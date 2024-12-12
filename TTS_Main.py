@@ -1,5 +1,4 @@
 # Libraries
-import elevenlabs
 from elevenlabs.client import ElevenLabs
 from elevenlabs import Voice, VoiceSettings, play
 import os
