@@ -9,5 +9,11 @@ export TALKINGSTICK='your_api_key'
 
 This will only activate the API key for that terminal session, ensuring security.
 
-Work that needs to be done:
-- Actually build the rest of the Program (design the alpha)
+Work that has to been done:
+- Alpha setup
+- User input for AI reading
+- AI hardcode customizability 
+
+Work that could be added:
+- User access to AI customizability
+- Connect websockets so that a display comes up and yaps as a visual (oohhh actually that's a good idea)
